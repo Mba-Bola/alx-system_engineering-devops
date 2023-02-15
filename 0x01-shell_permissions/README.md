@@ -1,2 +1,3 @@
 #Shell Permissions
-*Script to change user to Betty
+*Change user to Betty
+*Print current user's name
