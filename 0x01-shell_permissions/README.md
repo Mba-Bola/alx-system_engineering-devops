@@ -1,3 +1,3 @@
-#Shell Permissions
-*Change user to Betty
-*Print current user's name
+Shell Permissions
+#Change user to Betty
+#Print current user's name
