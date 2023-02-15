@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo -e "Hello, World\n"
-=======
-echo "Hello, World \n"
->>>>>>> 1173624c32dd726fb72cd3e3c9cf88114c9802ed
+echo -e "Hello, World \n"
